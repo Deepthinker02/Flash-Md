@@ -25,12 +25,12 @@
     },
     "AUTO_VIEW_STATUS": {
       "description": "Automatically view your contacts' status updates. Type 'on' to activate or 'off' to deactivate.",
-      "value": "on",
+      "value": "off",
       "required": false
     },
     "AUTO_SAVE_STATUS": {
       "description": "Automatically download and send status updates from your contacts. Type 'yes' to enable or 'no' to disable.",
-      "value": "off",
+      "value": "on",
       "required": false
     },
     "PM_PERMIT": {
@@ -60,7 +60,7 @@
     },
     "BOT_MODE": {
       "description": "Set the bot to 'private' mode to restrict access to certain users or 'public' mode for general access.",
-      "value": "public",
+      "value": "private",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -83,7 +83,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
-      "value": "254751284190",
+      "value": "923189492995",
       "required": false
     },
     "WARN_COUNT": {
